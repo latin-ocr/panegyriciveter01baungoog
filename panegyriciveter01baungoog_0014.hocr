@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./panegyriciveter01baungoog_0014.png"; bbox 0 0 2730 4726; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 236 1713 1108 1870">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 236 1713 1108 1870">
+     <span class='ocr_line' id='line_1_1' title="bbox 236 1713 1108 1870; baseline 0.001 -52"><span class='ocrx_word' id='word_1_1' title='bbox 236 1713 696 1870; x_wconf 73' lang='lat' dir='ltr'><strong>PANEGYRICI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 746 1714 1108 1853; x_wconf 40' lang='lat' dir='ltr'>,UNDECIM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 563 2057 949 2188">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 563 2057 949 2188">
+     <span class='ocr_line' id='line_1_2' title="bbox 563 2057 949 2188; baseline -0.013 -55"><span class='ocrx_word' id='word_1_3' title='bbox 563 2057 786 2144; x_wconf 87' lang='lat' dir='ltr'>RELIQUI</span> <span class='ocrx_word' id='word_1_4' title='bbox 937 2165 949 2188; x_wconf 24' lang='grc' dir='ltr'>λ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 184 2361 1169 2431">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 184 2361 1169 2431">
+     <span class='ocr_line' id='line_1_3' title="bbox 184 2361 1169 2431; baseline 0.001 -3"><span class='ocrx_word' id='word_1_5' title='bbox 184 2364 258 2429; x_wconf 86' lang='lat' dir='ltr'>EX</span> <span class='ocrx_word' id='word_1_6' title='bbox 296 2361 672 2430; x_wconf 89' lang='lat' dir='ltr'>EDITIONIBUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 710 2362 1169 2431; x_wconf 87' lang='lat' dir='ltr'><strong>ARNTZENIORUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1370 4726">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1370 4726">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1370 4726; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1370 4726; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
